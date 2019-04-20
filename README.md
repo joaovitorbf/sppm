@@ -2,7 +2,7 @@
 A small script to manage your Python processes.  
 It creates a permanent list of Python scripts for easy access and management.
 
-It's currently in development, it lacks features such as stdout/stderr monitoring and the code is pretty ugly, but it works!
+It currently lacks features such as stdout/stderr monitoring and the code is pretty ugly, but it works for simple usage!
 
 ## Requirements
 ```
